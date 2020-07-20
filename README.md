@@ -22,3 +22,7 @@ Data Source: https://www.kaggle.com/paultimothymooney/phd-stipends/data#
 
 
 5) How much time did you spend on this?								
+
+
+Observations:
+
